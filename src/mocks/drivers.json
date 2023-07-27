@@ -1,0 +1,82 @@
+[
+  {
+    "firstname": "Андрей",
+    "lastname": "Петров",
+    "vehicle": "Volvo FH16",
+    "role": "Водитель-экспедитор",
+    "deliveryAddress": "г. Москва, ул. Ленина, д. 25",
+    "phone": "79995556677"
+  },
+  {
+    "firstname": "Елена",
+    "lastname": "Сидорова",
+    "vehicle": "MAN TGS",
+    "role": "Менеджер по логистике",
+    "deliveryAddress": "г. Санкт-Петербург, ул. Красноармейская, д. 10",
+    "phone": "79998887766"
+  },
+  {
+    "firstname": "Дмитрий",
+    "lastname": "Кузнецов",
+    "vehicle": "Scania R730",
+    "role": "Водитель-экспедитор",
+    "deliveryAddress": "г. Екатеринбург, ул. Комсомольская, д. 20",
+    "phone": "79997776655"
+  },
+  {
+    "firstname": "Ольга",
+    "lastname": "Иванова",
+    "vehicle": "Mercedes-Benz Actros",
+    "role": "Менеджер по продажам",
+    "deliveryAddress": "г. Новосибирск, ул. Гагарина, д. 5",
+    "phone": "79996665544"
+  },
+  {
+    "firstname": "Алексей",
+    "lastname": "Смирнов",
+    "vehicle": "Iveco Stralis",
+    "role": "Водитель-экспедитор",
+    "deliveryAddress": "г. Казань, ул. Ленина, д. 10",
+    "phone": "79995554433"
+  },
+  {
+    "firstname": "Марина",
+    "lastname": "Ковалева",
+    "vehicle": "Volvo FMX",
+    "role": "Менеджер по логистике",
+    "deliveryAddress": "г. Ростов-на-Дону, ул. Ленина, д. 10",
+    "phone": "79994443322"
+  },
+  {
+    "firstname": "Игорь",
+    "lastname": "Федоров",
+    "vehicle": "MAN TGX",
+    "role": "Водитель-экспедитор",
+    "deliveryAddress": "г. Самара, ул. Пушкина, д. 10",
+    "phone": "79993332211"
+  },
+  {
+    "firstname": "Наталья",
+    "lastname": "Козлова",
+    "vehicle": "Scania S730",
+    "role": "Менеджер по продажам",
+    "deliveryAddress": "г. Красноярск, ул. Гагарина, д. 15",
+    "phone": "79992221100"
+  },
+  {
+    "firstname": "Петр",
+    "lastname": "Николаев",
+    "vehicle": "Mercedes-Benz Arocs",
+    "role": "Водитель-экспедитор",
+    "deliveryAddress": "г. Новосибирск, ул. Ленина, д. 5",
+    "phone": "79991110099"
+  },
+  {
+    "firstname": "Анна",
+    "lastname": "Соколова",
+    "vehicle": "Iveco Eurocargo",
+    "role": "Менеджер по логистике",
+    "deliveryAddress": "г. Екатеринбург, ул. Красноармейская, д. 5",
+    "phone": "79990099887"
+  }
+]
